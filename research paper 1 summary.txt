@@ -1,0 +1,7 @@
+
+
+Advantages- it uses 3 models RNN, LSTM and GRU and after testing all the three models , LSTM works best and gives better results in all 
+the cases
+
+
+Limitations-  The grouping of the sentiments, the output resulted with just 79 rows which was not sufficient to train the model. The lexicon model is unable to detect sarcasm, which would result in invalid outputs. Hence, the sentiment factor in regulating bitcoin price was dropped. 
